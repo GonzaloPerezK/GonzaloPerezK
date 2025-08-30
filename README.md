@@ -1,4 +1,4 @@
-# Repositorio de Gonzalo Perez 👋
+# Gonzalo Perez 👋
 
 <!--
 **GonzaloPerezK/GonzaloPerezK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Datos y Negocios 💹
-### Comprendiendo la utilización de markdown
+## Dirección de empresas // Datos y Negocios 💹
+### 
